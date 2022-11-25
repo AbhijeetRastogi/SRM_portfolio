@@ -426,6 +426,11 @@ button.cta-button:hover {
     text-decoration: none;
     border: #ececec 1px solid;
 }
+.aboutss {
+    color: #ffffff;
+    background-color: #db0a61;
+}
+
 .panel-heading a.collapsed {
     color: #333333;
     background-color: #fafafa;
